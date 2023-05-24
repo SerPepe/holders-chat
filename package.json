@@ -1,0 +1,38 @@
+{
+  "name": "taste",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@3rdweb/hooks": "^1.9.2",
+    "@3rdweb/react": "^1.9.3",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "elliptic": "^6.5.4",
+    "ethers": "^5.5.4",
+    "firebase": "^9.6.5",
+    "js-sha3": "^0.8.0",
+    "next": "12.0.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-stay-scrolled": "^7.4.0",
+    "secp256k1": "^4.0.3",
+    "sweetalert2": "^11.3.10",
+    "use-interval": "^1.4.0",
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.10",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18"
+  }
+}
